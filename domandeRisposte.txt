@@ -1,0 +1,150 @@
+Dove ha sede legale UMANA Spa?
+Marghera-Venezia.
+Scafati-Napoli.
+Marghera-Ponsacco.
+Acilia-Roma.
+In che anno è nata UMANA?
+1996.
+2005.
+1300 + 697.
+2025.
+Quante filiali di UMANA ci sono in tutta Italia?
+144.
+2.
+145.
+143.
+In quale anno entra in vigore la Costituzione Italiana?
+1948.
+1861.
+1945.
+1946.
+Chi ha inventato la bomba atomica?
+Oppenheimer.
+Giuseppe Muzz...
+Marius Minia.
+Serge.
+Da quale civiltà fu inventata la ruota?
+I sumeri.
+Assiro-Babilonesi. 
+Turchi.
+I molisani.
+Quali lingue si parlano in Svizzera?
+Francese, italiano, tedesco e romancio.
+Francese, italiano, austriaco, romancio.
+Tedesco, italiano, romancio, francese.
+Italiano, tedesco, romancio, napoletano.
+Qualè il paese più popolato al mondo?
+Cina.
+Russia.
+Mongolia.
+India.
+Quanti anni è durata la Guerra dei 100 anni?
+116.
+99.
+100.
+106.
+Cosa significa FIFA?
+Fédération International de Football Association.
+First Imperial Fight Airpods.
+Formation International de Football Association.
+Football Interaction de France Alliance.
+Ogni quanti anni si svolgono i giochi olimpici?
+Ogni 4 anni.
+Ogni 2 anni.
+Ogni 6 anni.
+Ogni 8 anni.
+Dove è stato inventato il ping pong?
+In Inghilterra.
+In Cina.
+In Slovenia.
+In Francia.
+Di quale categoria fa parte il pomodoro?
+Frutta.
+Ortaggi.
+Verdura.
+Tubero.
+Qualè l'animale più pericoloso del mondo?
+Vespa di mare.
+Medusa di lago.
+Rosita di Ostia.
+Pesce pietra.
+Quante ossa ha lo squalo?
+Zero.
+77.
+23.
+112.
+In CPlusPlus cosa significa '/n'? 
+Ritorna a capo su una nuova linea.
+Concatena due stringhe.
+Cancella un valore intero "n".
+Ritorna a fine file.
+Quali sono gli operatori logici in C++?
+Sono: '&&', '!', '||'.
+Sono: "<", ">", "==".
+Sono: "+", "-", "=".
+Sono: "++","--", "==".
+Quanta memoria occupa un char in C++?
+Un byte.
+Un bit.
+Otto byte.
+Otto bit.
+Qualè la forma corretta di scrivere un ciclo forin C++?
+For(inizializzazione;condizione;incremento).
+For(inizializzazione;incremento;condizione).
+For(condizione;inizializzazione;incremento).
+For(inizializzazione,condizione,incremento).
+Quanti valori può assumere una variabile booleana?
+Solo due.
+Solo uno.
+Solo 1,5.
+Solo 3.
+Cosa fa un ciclo Do While?
+Esegue prima un' istruzione, poi la condizione.
+Esegue prima la condizione, poi l'istruzione.
+Prepara il caffè.
+Velocizza il processo di compilazione del ciclo while.
+Come stampare a schermo in C++?
+Con ' std::cout<< '.
+Con la stampante.
+Con "cout >>". 
+Con cin >>.
+Quali sono gli operatori aritmetici in C++?
+'+', '-', '*', '/', '%'.
+'+', '-', '*'.
+'/', '%'.
+'+', '-'.
+Cosa restituisce la funzione 'Void' in C++?
+Nulla.
+Return.
+Void.
+Intero.
+Come commentare su C++?
+Con // per una sola riga, con /**/ per più righe.
+Con /**/ per una sola riga, con // per più righe.
+Con il prefisso "comm//"per una riga, "comm/*/ per più righe.
+Con il prefisso  "/*com*/".
+Quale funzione non può mancare in un programma di C++?
+Funzione main.
+Void.
+Iostream.
+Funzione *include.
+Cosa fa la funzione getline su C++?
+Legge riga per riga da un file aperto.
+Legge riga e apre un file chiuso.
+Legge paragrafo per paragrafo di un file aperto.
+Cancella riga per riga da un file aperto.
+In che anno TAS Group ha acquisito la società Astro IT?
+2020.
+2019.
+2023.
+1999.
+Quante sedi di TAS Group ci sono in Italia?
+6.
+18.
+Serge.
+3.
+Come si chiama l'amministratore delegato di TAS Group?
+Valentino Bravi.
+Pompeo Gusnello.
+Paolo Ottani.
+Giuseppe Muzzioli.
